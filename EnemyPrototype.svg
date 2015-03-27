@@ -14,9 +14,142 @@
    id="svg4867"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="EnemyPrototype.svg">
+   sodipodi:docname="RedEnemy.svg">
   <defs
-     id="defs4869" />
+     id="defs4869">
+    <filter
+       inkscape:collect="always"
+       id="filter3881">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.97206"
+         id="feGaussianBlur3883" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3901">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.8830131"
+         id="feGaussianBlur3903" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3917">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.8830131"
+         id="feGaussianBlur3919" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4045">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9883512"
+         id="feGaussianBlur4047" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4061">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.9881934"
+         id="feGaussianBlur4063" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4109">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.718847"
+         id="feGaussianBlur4111" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4125">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.6423298"
+         id="feGaussianBlur4127" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4137">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.974031"
+         id="feGaussianBlur4139" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4165">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.6744423"
+         id="feGaussianBlur4167" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4173"
+       x="-0.11136213"
+       width="1.2227243"
+       y="-0.041061657"
+       height="1.0821233">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.86842975"
+         id="feGaussianBlur4175" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4259"
+       x="-0.20045248"
+       width="1.400905"
+       y="-0.073910895"
+       height="1.1478218">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.86943172"
+         id="feGaussianBlur4261" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4267"
+       x="-0.17817947"
+       width="1.3563589"
+       y="-0.065698643"
+       height="1.1313973">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.8583306"
+         id="feGaussianBlur4269" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4283">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.9653747"
+         id="feGaussianBlur4285" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4303">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.1494547"
+         id="feGaussianBlur4305" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4323">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.1494547"
+         id="feGaussianBlur4325" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      inkscape:document-units="mm"
      pagecolor="#ffffff"
@@ -25,8 +158,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.43415836"
-     inkscape:cx="408.18608"
-     inkscape:cy="306.84944"
+     inkscape:cx="906.11574"
+     inkscape:cy="362.1469"
      inkscape:current-layer="layer6"
      id="namedview4871"
      showgrid="false"
@@ -43,7 +176,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,48 +199,49 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Camada">
+     inkscape:label="Camada"
+     style="display:inline">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.66510534000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline"
        d="m 428.72292,615.83924 1.15165,-241.15896 -69.17815,-65.14949 -67.89533,65.7627 -0.0615,239.95307 z"
        id="path3951"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <g
        id="g4291"
-       style="display:inline;stroke:#000000;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline"
        transform="matrix(1.6664174,0,0,1.6664174,-344.10607,-230.05788)">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path3971"
          d="m 514.21329,407.09638 -45.1259,0.0247 -0.31345,-45.84866 -43.60586,-41.02284 88.88535,-132.2489"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path3971-4"
          d="m 514.19219,407.13098 44.26845,0.7158 0.55127,-45.84443 42.84754,-40.85351 -88.08323,-132.68169"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline" />
     </g>
     <g
-       style="display:inline;stroke:#000000;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline"
        id="g4503"
        transform="matrix(1.6664174,0,0,1.6664174,-344.10607,-230.05788)">
       <path
          inkscape:connector-curvature="0"
          id="path4492"
          d="m 549.07551,235.31485 0,-29.2232 21.73746,0 0,62.33324 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path4501"
          d="m 478.22235,205.81441 0,28.70555 -23.51045,35.05659 0,-63.55855 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
     </g>
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.66510534000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1;display:inline"
        d="m 730.56967,617.09519 1.15165,-241.15896 -69.17814,-65.14949 -67.89533,65.7627 -0.0615,239.95307 z"
        id="path3951-7"
        inkscape:connector-curvature="0"
