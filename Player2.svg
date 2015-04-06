@@ -102,26 +102,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Camada"
-     style="display:inline">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0,-0.11232174 1053.763,0 0,746.51011174 -1053.763,0 z"
-       id="path3991"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#000000;stroke:none"
-       d="m 3.4958594,372.95476 0,-371.3399603 524.4362506,0 524.43629,0 0,371.3399603 0,371.33995 -524.43629,0 -524.4362506,0 0,-371.33995 z"
-       id="path3993"
-       inkscape:connector-curvature="0" />
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
