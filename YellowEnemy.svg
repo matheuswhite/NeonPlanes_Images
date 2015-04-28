@@ -14,7 +14,7 @@
    id="svg4867"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="EnemyPrototype.svg">
+   sodipodi:docname="YellowEnemy.svg">
   <defs
      id="defs4869">
     <filter
@@ -152,7 +152,7 @@
      inkscape:zoom="0.30699632"
      inkscape:cx="985.74904"
      inkscape:cy="349.4683"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer6"
      id="namedview4871"
      showgrid="false"
      inkscape:window-width="1366"
@@ -168,26 +168,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="display:inline">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -11.516535,-9.0869143 1077.947735,0 0,771.6078543 -1077.947735,0 z"
-       id="path4919"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#000000;stroke:none"
-       d="m -9.3569627,376.993 0,-384.6522712 536.6705327,0 536.67053,0 0,384.6522712 0,384.65227 -536.67053,0 -536.6705327,0 0,-384.65227 z"
-       id="path4921"
-       inkscape:connector-curvature="0" />
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"

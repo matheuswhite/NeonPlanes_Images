@@ -14,7 +14,7 @@
    id="svg4867"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="EnemyPrototype.svg">
+   sodipodi:docname="BlueEnemy.svg">
   <defs
      id="defs4869">
     <filter
@@ -52,38 +52,11 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter4254-1">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.9826874"
-         id="feGaussianBlur4256-7" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4214-1">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.6711659"
-         id="feGaussianBlur4216-1" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
        id="filter4254-8">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="1.9826874"
          id="feGaussianBlur4256-5" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter4246-1">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.6234864"
-         id="feGaussianBlur4248-8" />
     </filter>
     <filter
        inkscape:collect="always"
@@ -169,9 +142,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.21707918"
-     inkscape:cx="795.17882"
-     inkscape:cy="441.25447"
+     inkscape:zoom="0.30699632"
+     inkscape:cx="558.2286"
+     inkscape:cy="514.40093"
      inkscape:current-layer="layer6"
      id="namedview4871"
      showgrid="false"
@@ -188,26 +161,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="display:inline">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -11.516535,-9.0869143 1077.947735,0 0,771.6078543 -1077.947735,0 z"
-       id="path4919"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#000000;stroke:none"
-       d="m -9.3569627,376.993 0,-384.6522712 536.6705327,0 536.67053,0 0,384.6522712 0,384.65227 -536.67053,0 -536.6705327,0 0,-384.65227 z"
-       id="path4921"
-       inkscape:connector-curvature="0" />
-  </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
