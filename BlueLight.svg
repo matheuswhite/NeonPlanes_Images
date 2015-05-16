@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   id="svg4867"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="BlueLight.svg">
+  <defs
+     id="defs4869">
+    <filter
+       inkscape:collect="always"
+       id="filter4214">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.6711659"
+         id="feGaussianBlur4216" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4230">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.7830872"
+         id="feGaussianBlur4232" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4246">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.6234864"
+         id="feGaussianBlur4248" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4254">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9826874"
+         id="feGaussianBlur4256" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4254-8">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.9826874"
+         id="feGaussianBlur4256-5" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4415">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.4489189"
+         id="feGaussianBlur4417" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4423">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.4436389"
+         id="feGaussianBlur4425" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4435">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.8056248"
+         id="feGaussianBlur4437" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4447">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.8056248"
+         id="feGaussianBlur4449" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4455"
+       x="-0.11641059"
+       width="1.2328212"
+       y="-0.052117281"
+       height="1.1042346">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.6516515"
+         id="feGaussianBlur4457" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4463"
+       x="-0.11641059"
+       width="1.2328212"
+       y="-0.05211728"
+       height="1.1042346">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.6516513"
+         id="feGaussianBlur4465" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4471">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.9653747"
+         id="feGaussianBlur4473" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4487"
+       x="-0.055771024"
+       width="1.111542"
+       y="-0.10155047"
+       height="1.2031009">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.6979481"
+         id="feGaussianBlur4489" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3932"
+       x="-0.15035158"
+       width="1.3007032"
+       y="-0.10139991"
+       height="1.2027998">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.917818"
+         id="feGaussianBlur3934" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter3932-1"
+       x="-0.15035158"
+       width="1.3007032"
+       y="-0.10139991"
+       height="1.2027998">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.917818"
+         id="feGaussianBlur3934-7" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4039"
+       x="-0.10606607"
+       width="1.2121321"
+       y="-0.069534075"
+       height="1.1390681">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.470951"
+         id="feGaussianBlur4041" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4127">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.4350503"
+         id="feGaussianBlur4129" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.61399264"
+     inkscape:cx="632.01398"
+     inkscape:cy="383.97749"
+     inkscape:current-layer="layer6"
+     id="namedview4871"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4873">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Camada"
+     style="display:inline">
+    <path
+       style="fill:#a3ecec;fill-opacity:1;stroke:none;filter:url(#filter3932)"
+       d="m 459.28889,574.71135 94.46368,0 0,140.06682 -94.46368,0 z"
+       id="path3102"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.58997206,0,0,0.70731077,213.2522,147.71874)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Camada#1"
+     style="display:inline">
+    <path
+       style="fill:#c0f2f2;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4039)"
+       d="m 479.34776,565.53767 55.91121,0 0,85.28599 -55.91121,0 z"
+       id="path3102-4"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.7392331,0,0,0.8614932,137.13427,77.97362)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Camada#2"
+     style="display:inline">
+    <path
+       style="fill:#d7f2f2;fill-opacity:1;stroke:none;display:inline;filter:url(#filter4127)"
+       d="m 484.28483,572.3697 45.46005,0 0,69.34397 -45.46005,0 z"
+       id="path3102-4-2"
+       inkscape:connector-curvature="0"
+       transform="matrix(0.7392331,0,0,0.8614932,137.13427,77.97362)" />
+  </g>
+</svg>
